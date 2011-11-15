@@ -1,0 +1,5 @@
+Usage;
+./infinity $num_procs $cmd [$arg1, $arg2 ...]
+
+Example;
+./infinity 4 node /Users/mkrecny/Sites/infinity/test/proc.js

@@ -1,0 +1,4 @@
+#! /usr/bin/env node
+var args = process.argv.splice(2, process.argv.length);
+var infinity = require('./lib/infinity');
+infinity.initKids(args);
